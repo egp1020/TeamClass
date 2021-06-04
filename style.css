@@ -28,3 +28,9 @@ li{
     display: inline-block;
     padding: 5px;
 }
+
+img{
+    display: block;
+    margin: auto;
+    padding: 5px;
+}
