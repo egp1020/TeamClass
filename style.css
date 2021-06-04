@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    padding: 50px;
+    background-color: brown;
+    margin: 8px;
+    color: blanchedalmond;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+ul{
+    list-style-type: none;
+}
