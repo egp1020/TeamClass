@@ -20,6 +20,13 @@ h1 {
     font-weight: bold;
 }
 
+nav{
+    padding: 20px;
+}
+
 ul{
     list-style-type: none;
+}
+main {
+    padding: 20px;
 }
