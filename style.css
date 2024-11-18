@@ -35,6 +35,16 @@ li{
     display: inline-block;
     padding: 5px;
 }
-main {
+
+main{
     padding: 20px;
 }
+
+img{
+    display: block;
+    margin: auto;
+    padding: 5px;
+}
+footer{
+    text-align: center;
+
